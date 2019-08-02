@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
- 
+
 const Home = () => {
   return (
     <div>
@@ -9,7 +9,7 @@ const Home = () => {
     </div>
   );
 };
- 
+
 const About = () => {
   return (
     <div>
@@ -17,7 +17,7 @@ const About = () => {
     </div>
   );
 };
- 
+
 const Login = () => {
   return (
     <div>
